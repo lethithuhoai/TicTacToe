@@ -23,3 +23,22 @@
   display: flex;
   justify-content: center;
 }
+.undo {
+  width: 120px;
+  height: 20px;
+  margin-right: 14px;
+}
+.redo {
+  width: 120px;
+  height: 20px;
+  margin-left: 18px;
+}
+.btn {
+  display: flex;
+  align-items: center;
+  /* margin-bottom: 255px; */
+  margin-left: 538px;
+}
+.status {
+  margin-left: 5px;
+}
